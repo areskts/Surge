@@ -1,10 +1,10 @@
 # Unbreak 白名单 不应该被广告链接的网站
 
 # Epicgames
-DOMAIN-SUFFIX,git.iwgame.com
+DOMAIN-SUFFIX,iwgame.com
 
 # Getui
-DOMAIN-SUFFIX,wiki.iwgame.tec
+DOMAIN-SUFFIX,iwgame.tec
 
 # Google
 DOMAIN,dl.google.com
