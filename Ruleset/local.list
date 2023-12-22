@@ -28,6 +28,9 @@ DOMAIN,errlog.umeng.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 
+
+DOMAIN,gitlab-outside.iwgame.com
+
 # Miui 小米
 DOMAIN,tracking.miui.com
 
