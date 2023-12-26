@@ -17,10 +17,14 @@ DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 # Origin
 DOMAIN,origin-a.akamaihd.net
 
+# iwgame
+DOMAIN, oa.lvanol.com
+
 # Tencent
 DOMAIN,fairplay.l.qq.com
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
+
 
 # Strava
 
