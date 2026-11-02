@@ -1,1 +1,4 @@
-DOMAIN,hering.luckube.com
+# 自定义直连域名（Surge / Loon 通用，均以 DIRECT 策略引用）
+DOMAIN-SUFFIX,luckube.com
+DOMAIN-SUFFIX,z.ai
+DOMAIN-SUFFIX,myqcloud.com
