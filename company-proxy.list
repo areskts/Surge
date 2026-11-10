@@ -1,0 +1,2 @@
+# 仅公司有线网络使用，策略由主配置指定
+DOMAIN-SUFFIX,linux.do
