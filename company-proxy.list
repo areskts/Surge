@@ -1,2 +1,9 @@
 # 仅公司有线网络使用，策略由主配置指定
 DOMAIN-SUFFIX,linux.do
+
+# 公司有线直连超时的海外服务（2026-11-13 日志分析）
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,warp.dev
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN,kt-prod.ess.apple.com
