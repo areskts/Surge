@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,warp.dev
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN,kt-prod.ess.apple.com
 
-# Google 区域变体域名（2026-11-18 日志：登录/搜索/翻译直连被阻断）
+# Google 区域变体与登录域名（2026-11-18 日志：直连被阻断；登录页会按地区重定向到各国变体）
 DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.co.uk
+DOMAIN-KEYWORD,accounts.google
