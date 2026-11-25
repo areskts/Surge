@@ -13,3 +13,11 @@ DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.co.uk
 DOMAIN-KEYWORD,accounts.google
+
+# Reddit 公司有线直连超时或返回 403（2026-11-25 验证）
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddituploads.com
+DOMAIN-SUFFIX,redditmail.com
